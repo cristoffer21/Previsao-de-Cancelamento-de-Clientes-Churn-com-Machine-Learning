@@ -131,5 +131,5 @@ Principais variáveis associadas ao churn:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/cristoffer21/churn-ML.git
+git clone https://github.com/cristoffer21/Previsao-de-Cancelamento-de-Clientes-Churn-com-Machine-Learning.git
 cd churn-ML
